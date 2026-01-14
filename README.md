@@ -60,4 +60,4 @@ These tasks were part of the Web Development course and supported the creation o
 
 ## Related Project
 Movie App Repository:  
-https://github.com/YvonneFrankort/Moovie-App
+[https://github.com/YvonneFrankort/Moovie-App](https://github.com/YvonneFrankort/movie-web-app)
